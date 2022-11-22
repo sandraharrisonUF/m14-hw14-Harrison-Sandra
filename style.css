@@ -2,15 +2,34 @@
     margin: 0 !important;
     padding: 0 !important;
 }
-.container-2, .container-3, .container-4, .container-5, .container-6, .container-fluid-7 {
-    margin: 2rem 2rem 0 2rem !important;
+.container-2, .container-3, .container-4, .container-fluid-5 {
     display: flex;
-    justify-content: center;
     font-size: 1.25rem;
+    justify-content: center;
+}
+.container-2, .container-3, .container-4 {
+    margin: 2rem 2rem 0 2rem !important;
+}
+.container-2, .container-3 {
+    padding-bottom: .75rem !important;
+}
+.container-4 {
+    padding-bottom: 4rem !important;
+}
+.container-fluid-1, .container-2, .container-3, .container-4, .container-fluid-5 {
     text-align: center;
 }
-.container-fluid-1 {
-    text-align: center;
+.container-fluid-1 { 
     font-weight: bolder;
     font-size: 1.5rem;
+    padding-bottom: 1rem !important;
+}
+h2, h3, h4 {
+    font-size: 2rem;
+}
+.container-fluid-5 {
+    color: black;
+    background-color: rgb(238, 239, 239);
+    padding-top: 1rem !important;
+    font-weight:normal;
 }
