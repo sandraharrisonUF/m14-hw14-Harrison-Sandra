@@ -2,24 +2,24 @@
     margin: 0 !important;
     padding: 0 !important;
 }
-.container-2, .container-3, .container-4, .container-fluid-5 {
+.container-fluid-1, .container-2, .container-3, .container-4, .container-fluid-5 {
     display: flex;
     font-size: 1.25rem;
     justify-content: center;
 }
-.container-2, .container-3, .container-4 {
+.container-fluid-1, .container-2, .container-3, .container-4 {
     margin: 2rem 2rem 0 2rem !important;
 }
-.container-2, .container-3 {
-    padding-bottom: .75rem !important;
+.navbar-brand, .container-2, .container-3 {
+    padding: .75rem 0 !important;
 }
 .container-4 {
     padding-bottom: 4rem !important;
 }
-.container-fluid-1, .container-2, .container-3, .container-4, .container-fluid-5 {
+.container-fluid-2, .container-2, .container-3, .container-4, .container-fluid-5 {
     text-align: center;
 }
-.container-fluid-1 { 
+.container-fluid-2 { 
     font-weight: bolder;
     font-size: 1.5rem;
     padding-bottom: 1rem !important;
