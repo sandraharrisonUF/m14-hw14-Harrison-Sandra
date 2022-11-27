@@ -2,21 +2,21 @@
     margin: 0 !important;
     padding: 0 !important;
 }
-.container-fluid-1, .container-2, .container-3, .container-4, .container-fluid-5 {
+.container-fluid, .container-2, .container-3, .container-4, .container-5, .container-fluid-6 {
     display: flex;
     font-size: 1.25rem;
     justify-content: center;
 }
-.container-fluid-1, .container-2, .container-3, .container-4 {
+.container-fluid, .container-2, .container-3, .container-4, .container-5 {
     margin: 2rem 2rem 0 2rem !important;
 }
 .navbar-brand, .container-2, .container-3 {
-    padding: .75rem 0 !important;
+    padding: 1rem 0 !important;
 }
-.container-4 {
-    padding-bottom: 4rem !important;
+.container-5 {
+    padding-bottom: 5rem;
 }
-.container-fluid-2, .container-2, .container-3, .container-4, .container-fluid-5 {
+.container-fluid-2, .container-2, .container-3, .container-4, .container-5, .container-fluid-6 {
     text-align: center;
 }
 .container-fluid-2 { 
@@ -27,7 +27,7 @@
 h2, h3, h4 {
     font-size: 2rem;
 }
-.container-fluid-5 {
+.container-fluid-6 {
     color: black;
     background-color: rgb(238, 239, 239);
     padding-top: 1rem !important;
